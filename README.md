@@ -78,8 +78,8 @@
 ## 📊 GitHub Stats
 <div align="center">
 
-![Estadísticas](https://github-readme-stats.vercel.app/api?username=ElTrompa&show_icons=true&theme=radical&cache_seconds=120)  
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=ElTrompa&layout=compact&theme=radical&cache_seconds=120)
+![Estadísticas](https://github-readme-stats.vercel.app/api?username=ElTrompa&show_icons=true&theme=radical&cache_seconds=0)
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=ElTrompa&layout=compact&theme=radical&cache_seconds=0)
 
 </div>
 
